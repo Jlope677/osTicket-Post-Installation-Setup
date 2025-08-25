@@ -39,6 +39,7 @@ I now understand how permission levels are separated in osTicket. Admins control
 
 **Path:** `Admin Panel → Agents → Roles`  
 I added a role called `Supreme Admin` to define top-level access.
+
 <img width="1347" height="571" alt="add a new role" src="https://github.com/user-attachments/assets/6a09583a-dd73-473d-81ed-19afe1162bcd" />
 <img width="1233" height="606" alt="add a new role1" src="https://github.com/user-attachments/assets/ed072df2-38c7-4d9a-b95b-a2772f3e5a1a" />
 <img width="1245" height="734" alt="add a new role2" src="https://github.com/user-attachments/assets/99e5b2ab-b73f-450d-bafb-998e22eb7ad2" />
